@@ -8,11 +8,10 @@ I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultanc
 
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=srinivasuluparanduru&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasuluparanduru&theme=tokyonight&hide_border=false" /> |
 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantchimmad&label=Profile%20views&color=0e75b6&style=flat" alt="vedantchimmad" /> </p>
 
-
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<br/>
 ## Contact me:
 <div>
 
@@ -21,8 +20,7 @@ I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultanc
 
 </div>
 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+<br/>
 ## My Blogs:
 <div>
 
