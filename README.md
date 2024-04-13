@@ -24,5 +24,5 @@ I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultanc
 ## My Blogs:
 <div>
 
-[![dev.to Badge](https://img.shields.io/badge/-srinivasuluparanduru-black?style=flat-square&logo=dev.to&logoColor=white&link=[https://dev.to/srinivasuluparanduru]([https://dev.to/srinivasuluparanduru/](https://dev.to/srinivasuluparanduru))/)]([https://dev.to/vedantchimmad/](https://dev.to/in/srinivasuluparanduru/))
+[![dev.to Badge](https://img.shields.io/badge/-srinivasuluparanduru-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/srinivasuluparanduru)]([https://dev.to/srinivasuluparanduru/](https://dev.to/srinivasuluparanduru))/)]([https://dev.to/vedantchimmad/](https://dev.to/in/srinivasuluparanduru/))
 </div>
