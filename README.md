@@ -8,5 +8,5 @@ I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultanc
 ## Contact me:
 <div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-vedantchimmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vedantchimmad](https://www.linkedin.com/in/srinivasuluparanduru/)/)]([https://www.linkedin.com/in/vedantchimmad/](https://www.linkedin.com/in/srinivasuluparanduru/))
+[![Linkedin Badge](https://img.shields.io/badge/-srinivasuluparanduru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vedantchimmad](https://www.linkedin.com/in/srinivasuluparanduru/)/)]([https://www.linkedin.com/in/vedantchimmad/](https://www.linkedin.com/in/srinivasuluparanduru/))
 </div>
