@@ -16,7 +16,7 @@ I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultanc
 <div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-srinivasuluparanduru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/srinivasuluparanduru](https://www.linkedin.com/in/srinivasuluparanduru/)/)]([https://www.linkedin.com/in/srinivasuluparanduru/](https://www.linkedin.com/in/srinivasuluparanduru/))
-[![Gmail Badge](https://img.shields.io/badge/-vedantchimmad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinivasulup.538034@gmail.com)](mailto:srinivasulup.538034@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-srinivasulup.538034@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinivasulup.538034@gmail.com)](mailto:srinivasulup.538034@gmail.com)
 
 </div>
 
