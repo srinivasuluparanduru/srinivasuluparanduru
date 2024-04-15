@@ -4,6 +4,9 @@ Srinivasulu(Srini)</a></h1>
 
 I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultancy Service. I am a Microsoft Certified Trainer and AWS Community Builder. 
 
+My Blogs
+- Terraform certification blog  : https://dev.to/aws-builders/part1-terraform-associate-certification-preparation-f1b
+
 <p align="left"> <a href="https://github.com/srinivasuluparanduru/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasuluparanduru" alt="srinivasuluparanduru" /></a> </p>
 
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=srinivasuluparanduru&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasuluparanduru&theme=tokyonight&hide_border=false" /> |
