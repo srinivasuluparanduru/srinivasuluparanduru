@@ -37,7 +37,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-#################################################################################################
-
+<!--
 <p><a href="https://www.buymeacoffee.com/srinivasuluparanduru"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7PRWGNcz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.buymeacoffee.com/button-api/%3Ftext%3DBuy%2520me%2520a%2520coffee%26emoji%3D%26slug%3Dpwd9000%26button_colour%3DFFDD00%26font_colour%3D000000%26font_family%3DCookie%26outline_colour%3D000000%26coffee_colour%3Dffffff" loading="lazy" width="235" height="50"></a></p>
-
+-->
