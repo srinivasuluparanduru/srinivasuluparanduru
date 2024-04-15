@@ -9,6 +9,13 @@ My Blogs
 - [Learn Python Basics](https://dev.to/aws-builders/python-101-2188)
 - [Python Boto 3](https://dev.to/aws-builders/aws-boto3-sdk-10n3)
 - [AWS APP Runner](https://dev.to/aws-builders/app-runner-2nb7)
+- [AWS EC2 in Depth](https://www.linkedin.com/feed/update/urn:li:activity:6934135867192078336/)
+- [AWS RDS](https://www.linkedin.com/feed/update/urn:li:activity:6926838508607168512/)
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/srinivasuluparanduru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
   
 <p align="left"> <a href="https://github.com/srinivasuluparanduru/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasuluparanduru" alt="srinivasuluparanduru" /></a> </p>
 
@@ -28,9 +35,6 @@ My Blogs
 </div>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/srinivasuluparanduru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 #################################################################################################
 
