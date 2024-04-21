@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Srinivasulu(Srini)</a></h1>
+Srini(Srinivasulu)</a></h1>
 <h3 align="center">AWS Solution Architect & Devops Engineer</h3>
 
 I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultancy Service. I am a Microsoft Certified Trainer and AWS Community Builder. 
