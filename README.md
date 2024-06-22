@@ -6,6 +6,7 @@ I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultanc
 
 My Blogs
  - [Terraform Associate certification - 13 Blogs](https://dev.to/aws-builders/part1-terraform-associate-certification-preparation-f1b)
+ - [GitHub Foundation Certification - 8 Blogs](https://dev.to/aws-builders/github-foundation-certification-preparation-4ojm)
 - [Learn Python Basics- 3 Blogs](https://dev.to/aws-builders/python-101-2188)
 - [Python Boto 3 - 3 Blogs](https://dev.to/aws-builders/aws-boto3-sdk-10n3)
 - [AWS APP Runner](https://dev.to/aws-builders/app-runner-2nb7)
