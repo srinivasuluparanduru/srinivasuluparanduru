@@ -5,7 +5,7 @@ Srini(Srinivasulu)</a></h1>
 I am Srinivasulu Paranduru, Working as AWS Solution Architect in Tata Consultancy Service. I am a Microsoft Certified Trainer and AWS Community Builder. 
 
 My Blogs
- - [Terraform Associate certification - 13 Blogs](https://dev.to/aws-builders/part1-terraform-associate-certification-preparation-f1b)
+ - [Terraform Associate certification - 14 Blogs](https://dev.to/aws-builders/part1-terraform-associate-certification-preparation-f1b)
  - [GitHub Foundation Certification - 8 Blogs](https://dev.to/aws-builders/github-foundation-certification-preparation-4ojm)
 - [Learn Python Basics- 3 Blogs](https://dev.to/aws-builders/python-101-2188)
 - [Python Boto 3 - 3 Blogs](https://dev.to/aws-builders/aws-boto3-sdk-10n3)
