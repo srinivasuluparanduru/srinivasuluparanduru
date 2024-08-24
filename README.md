@@ -13,11 +13,15 @@ My Blogs
 - [AWS EC2 in Depth](https://www.linkedin.com/feed/update/urn:li:activity:6934135867192078336/)
 - [AWS RDS](https://www.linkedin.com/feed/update/urn:li:activity:6926838508607168512/)
 <br/>
-  **Some References:**
+  <b>Some References:</b>
 <br/>
   
 - [Git Cheat Sheet](https://github.com/srinivasuluparanduru/srinivasuluparanduru/blob/main/docs/GitCheatSheet.pdf)
-- [Bash Notes for Beginners](https://media.licdn.com/dms/document/media/D561FAQFYxUrWj4gf7g/feedshare-document-pdf-analyzed/0/1724485774064?e=1725494400&v=beta&t=3X4mqjB0qpOwocktaHq0xZWPojv23bjoQlsbM8hSQxw)  
+- [Bash Notes for Beginners](https://media.licdn.com/dms/document/media/D561FAQFYxUrWj4gf7g/feedshare-document-pdf-analyzed/0/1724485774064?e=1725494400&v=beta&t=3X4mqjB0qpOwocktaHq0xZWPojv23bjoQlsbM8hSQxw)
+
+**Free Labs**
+
+- [kodekloud Free Labs](https://kodekloud.com/free-labs)
 🌐 **My Language Stats**
 
 <img alt="Language Stats" style="width:47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
