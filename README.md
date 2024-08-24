@@ -16,6 +16,7 @@ My Blogs
 
 **AWS Referenes**
 - [AWS Builder Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all)
+- [Six helpful AWS Websites](https://media.licdn.com/dms/document/media/D561FAQGF0JXClu46uw/feedshare-document-pdf-analyzed/0/1720436467938?e=1725494400&v=beta&t=Eqa8O_75rWGp2dgJ2WxXmios6RMelp7QoNZJetXJi6E)
 
 **AWS Badges - Can be  earned for free**
 - [Cloud Essentials](https://lnkd.in/gZYkMyaS)
