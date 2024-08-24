@@ -15,7 +15,7 @@ My Blogs
 <br/>
 
 - [Git Cheat Sheet](https://github.com/srinivasuluparanduru/srinivasuluparanduru/blob/main/docs/GitCheatSheet.pdf)
--[Bash Notes for Beginners](https://media.licdn.com/dms/document/media/D561FAQFYxUrWj4gf7g/feedshare-document-pdf-analyzed/0/1724485774064?e=1725494400&v=beta&t=3X4mqjB0qpOwocktaHq0xZWPojv23bjoQlsbM8hSQxw)  
+- [Bash Notes for Beginners](https://media.licdn.com/dms/document/media/D561FAQFYxUrWj4gf7g/feedshare-document-pdf-analyzed/0/1724485774064?e=1725494400&v=beta&t=3X4mqjB0qpOwocktaHq0xZWPojv23bjoQlsbM8hSQxw)  
 🌐 **My Language Stats**
 
 <img alt="Language Stats" style="width:47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
