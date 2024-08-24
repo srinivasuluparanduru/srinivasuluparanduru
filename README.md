@@ -16,6 +16,26 @@ My Blogs
 
 **AWS Referenes**
 - [AWS Builder Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all)
+
+**AWS Badges**
+- [Cloud Essentials](https://lnkd.in/gZYkMyaS)
+- [Compute](https://lnkd.in/gjFmyzuB)
+- [Architecting](https://lnkd.in/gCr669kP)
+- [Serverless](https://lnkd.in/g9mTt4cQ)
+- [Networking Core](https://lnkd.in/gr-kRdwW)
+- [Amazon EKS](https://lnkd.in/ggSpJhgG]
+- [Object Storage](https://lnkd.in/ginxcE78)
+- [Block Storage](https://lnkd.in/gqhZ8a3u
+- [File Storage](https://lnkd.in/g2v5ivyN)
+- [Amazon Braket](https://lnkd.in/g84-sjc6
+- [Migration Foundations](https://lnkd.in/gziy97xE)
+- [Events and Workflows](https://lnkd.in/gqAa6ZHa)
+- [Storage Data Migration](https://lnkd.in/g2NCJ8it)
+- [Media and Entertainment](https://lnkd.in/gyFHpRSU)
+- [AWS for games](https://lnkd.in/gBqUNReK)
+- [Storage data protection and disaster recovery](https://lnkd.in/gXRH9h7m)
+
+
   
 **Some References**
 <br/>
