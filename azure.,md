@@ -1,0 +1,5 @@
+Lakehouse architecture is revolutionizing the field of data management! By merging the strengths of data lakes and data warehouses into a cohesive system, it provides a comprehensive solution for storing, managing, and analyzing data at scale. This approach is designed to tackle the limitations and challenges associated with traditional data warehouses and data lakes. 
+
+If you're interested in exploring this emerging approach, check out the lakehouse reference architectures available. 
+
+https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/reference
