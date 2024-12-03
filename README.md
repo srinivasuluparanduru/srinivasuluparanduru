@@ -44,7 +44,7 @@ My Blogs
 **Python References**
 <br/>
 - [170 Python Projects](https://github.com/srinivasuluparanduru/srinivasuluparanduru/blob/main/docs/170_Python_Projects.pdf)
-- [Python Cheat Sheet](https://github.com/srinivasuluparanduru/srinivasuluparanduru/blob/main/docs/GitCheatSheet.pdf)
+- [Python Cheat Sheet](https://github.com/srinivasuluparanduru/srinivasuluparanduru/blob/main/docs/Python3_Cheat_Sheet.pdf)
 
 **Free Labs**
 
